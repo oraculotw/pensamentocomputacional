@@ -1,0 +1,61 @@
+body {
+
+}
+
+#banner {
+        width:100% ;    
+}
+
+.principal {
+    background: gray;
+    padding: 30px;
+
+}
+
+.tituloprincipal{
+
+    padding-left: 20px;
+}
+
+.titulocentro {
+    text-align: center;
+    padding top: 20px;
+    margin-left: 15px;
+}
+
+p {
+text-align: center;
+background: gray;
+}
+
+em strong {
+    color:red
+}
+
+#aula {
+    font-size: 60px;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imgbeneficios {
+
+    width: 50%;
+}
